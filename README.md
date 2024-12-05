@@ -33,3 +33,8 @@ It's just an unspecified extension (i.e unknown). It might be possible to identi
 
 ### corruption
 Most of the content in the non-image files are garbled, where some of it looks valid and some is complete gibberish. Don't know how to solve this, but let me know if you do! My (square_nine) contacts are in my profile!
+
+
+## TODO 
+just for me...
+* look at how many characters decided well Vs how many that didn't decode, see if there is a pattern or not. if there is, reformat decryptor to account for blocks OR try and do a decode round 2
