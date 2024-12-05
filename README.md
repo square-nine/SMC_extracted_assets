@@ -7,6 +7,9 @@ So, it's quite a lot of files, and I haven't been able to commit all of them (as
 
 For now, have some other info:
 
+### fun fact
+I compared the archive size to the extracted size, and they are the same! So it seems that it's more of a package than a compression utility (makes sense with all of the filetypes)
+
 ## Extraction stuff
 I made a quick script to analyse the file extensions extracted. here is the result:
 
