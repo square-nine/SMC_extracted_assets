@@ -3,7 +3,9 @@
 
 ## Where asset?
 So, it's quite a lot of files, and I haven't been able to commit all of them (as a few are >100MB, which GitHub don't like)
-I am trying to filter the things that extracted file (pngs for example) into a separate folder and push them here, but it seems that pushing gigabytes of content will take time. For now, I aim to get all the images here, but other files should make their way here once I am able to properly decrypt them. If the files get too large for handling, I will try to upload them elsewhere (i.e Google Drive account)
+I am trying to filter the things that extracted file (pngs for example) into a separate folder and push them here, but it seems that pushing gigabytes of content will take time. For now, I aim to get all the images here, but other files should make their way here once I am able to properly decrypt them. If the files get too large for handling, I will try to upload them elsewhere.
+
+You can *definetely* access the images at [this Google Drive link](https://drive.google.com/drive/folders/1--a8d9Igal_PSBoCTb-gV4HAGJeNOIYA?usp=drive_link).
 
 ### fun fact
 I compared the archive size to the extracted size, and they are the same! So it seems that it's more of a package than a compression utility (makes sense with all of the filetypes).
