@@ -1,0 +1,3 @@
+COMMAND:
+
+python .\onmyoji_extractor_smc.py "C:\Program Files (x86)\Steam\steamapps\common\Super Mecha Champions\package\res2.npk"
