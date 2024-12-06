@@ -34,6 +34,13 @@ It's just an unspecified extension (i.e unknown). It might be possible to identi
 ### corruption
 Most of the content in the non-image files are garbled, where some of it looks valid and some is complete gibberish. Don't know how to solve this *yet*, but let me know if you do! My (square_nine) contacts are in my profile!
 
+## What each extensions looks like:
+
+### PNG
+All images look exactly as they do in-game. Some may need rescaling for personal use.
+
+### JSON
+Lots of empty JSON files. Some have legible data (one is completely corrupted though..)
 
 ## TODO 
 just for me...
